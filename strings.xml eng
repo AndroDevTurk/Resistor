@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resistor</string>
+    <string name="not1">Be sure to chance to all color minimum one times </string>
+    <string name="hesapla">Solve</string>
+    <string name="head">Select to Resistor Colors</string>
+</resources>
