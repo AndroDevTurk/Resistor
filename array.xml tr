@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Band1">
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+       <item>4</item>
+
+    </string-array>
+
+    <string-array name="Renkler">
+        <item>Siyah</item>
+        <item>Kahve</item>
+        <item>Kırmızı</item>
+        <item>Turuncu</item>
+        <item>Sarı</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Mor</item>
+        <item>Gri</item>
+        <item>Beyaz</item>
+        <item>Altın</item>
+        <item>Gümüş</item>
+        <item>Renksiz</item>
+
+    </string-array>
+
+
+</resources>
