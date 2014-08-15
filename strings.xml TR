@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direnç Ölçer</string>
+    <string name="not1">* Renklerin Seçildiğinden Emin olmak için En az birkere değiştiğini gözlemleyiniz. </string>
+    <string name="hesapla">Hesapla</string>
+    <string name="head">Direnç Renk Kodunu Giriniz</string>
+</resources>
