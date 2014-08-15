@@ -1,0 +1,4 @@
+Resistor
+========
+
+Direnç Hesaplama
